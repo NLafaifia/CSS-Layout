@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700|Work+Sans:300,400,500,600,700&display=swap);
+* {
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+.navbar {
+    font-weight: bold;
+    height: 70px;
+    margin: auto;
+    background: #fff;
+}
+.navbar ul {margin: 0px 0px 0px 600px;}
+.navbar li {
+    font-size: 1em;
+    text-align:justify;
+}
+.navbar li a {
+    color: #9e9a9a;
+}
+.navbar li a:hover, .navbar li a:focus {
+    color: #3bbcab !important;
+}
+.logo-docplanner {
+    color: white;
+    font-size: 2em;
+    font-family: Roboto;
+    margin: auto;
+ }
+.lead-section {
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+h1 {
+    font-size: 2em;
+    color: rgb(59, 188, 171);
+}
+.col-md {
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+.container {
+    margin-top: 40px;
+    font-family: roboto;
+    color: #9e9a9a;
+}
+img {
+    margin-bottom: 40px;
+}
+.col-md.patient {
+    background-color: #3bbcab;
+    color: white;
+    text-align:left;
+    border-radius: 20px;
+    margin: 20px;
+}
+.col-md.patient h1 {
+    color: white;
+}
+h2 {
+    font-size: 1.5em;
+}
+.col-md.doctors {
+    background-color:rgb(77, 77, 198);
+    color: white;
+    text-align:left;
+    border-radius: 20px;
+    margin: 20px;
+}
+.col-md.doctors h1 {
+    color: white;
+}
+h2 {
+    font-size: 1.5em;
+}
+.col-md.clinics {
+    background-color:rgb(36, 36, 54);
+    color: white;
+    text-align:left;
+    border-radius: 20px;
+    margin: 20px;
+}
+.col-md.clinics h1 {
+    color: white;
+}
+h2 {
+    font-size: 1.5em;
+}
+.section__inner {
+    background-color: rgb(218, 244, 235);
+}
+.col-md.Leader {
+    background-color: #fff;
+    margin-top: 10px;
+}
+.col-md.appointment {
+    background-color: #fff;
+    margin-top: 20px;
+}
+.col-md.pat {
+    background-color: #fff;
+}
+.col-md.doc {
+    background-color: #fff;
+    margin-top: 20px;
+}
